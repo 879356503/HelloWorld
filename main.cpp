@@ -10,6 +10,7 @@ int main(){
         printf("main1-branch");
         printf("sortv1-branch");
 	printf("test1");
+	printf("Hi main");
 	return 0;
 
 }
